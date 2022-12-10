@@ -1,10 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/32928fb8-169f-49e3-9cae-b278d57ee561/deploy-status)](https://app.netlify.com/sites/kaigarden/deploys)
 
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# KaiGarden
+这里是我个人的数字花园，这里的内容是我思考的环境，所以一切都是正在生长的，不完整的，有趣的，实验性的，个性化的……
 
----
-
-## Custom Styling
-I encourage you to change the default styling to make the site your own. Please modify the custom-style.scss when doing so to avoid future conflict when updating the template.
+我通过 Obsidian 来记录想法通过 [Digital Garden](https://github.com/oleeskild/Obsidian-Digital-Garden) 插件将内容发布到这里。

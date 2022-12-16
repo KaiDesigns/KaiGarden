@@ -215,15 +215,72 @@ Have you ever had that feeling where you have like 200 tabs open on your browser
 
 `您是否有过这样的感觉，您在浏览器上打开了 200 个标签页，但您不想关闭它们，因为您会丢失您打算阅读的宝贵文章？我感受到了那种焦虑。幸运的是，有一个解决方案：Read-it-Later 应用程序。`
 
+I never read articles in my web browser. When I come across an interesting article, I save it to an app that automatically downloads it to my phone so I can read it later. Saving these articles gets me out of a reactivity loop, where I read things immediately after I find them (which is what most people do). I want my reading to be much more intentional than that.
 
-未完待续～～
+我从不在我的浏览器上阅读文章。当我看到一篇有趣的文章时，我会把它保存到一个应用程序中，它会自动下载到我的手机上，这样我以后就可以阅读它了。保存这些文章让我走出了一个反应性循环，在这个循环中，我在找到文章后立即阅读它们(这是大多数人所做的)。我希望我的阅读能更有目的性。
 
-#Task
+Read-it-Later apps act as a quality filter for your reading too. By saving articles to an app and refusing to instantly read things you come across on the Internet, you raise the bar for what grabs your attention. With a Read-it-Later app, whenever you sit down to read, you have hundreds of articles to choose from. You can allocate your attention to the best one. 
+
+稍后阅读 "应用程序也可以作为你阅读的质量过滤器。通过将文章保存到一个应用程序，拒绝立即阅读你在互联网上遇到的东西，你提高了吸引你注意力的标准。有了Read-it-Later应用程序，每当你坐下来阅读时，你有数百篇文章可以选择。你可以把你的注意力分配给最好的一篇。
+
+Using a Read-it-Later app showed me how many ideas I consumed not because they were important, but because it was marketed with “You have to read this!!!!” language. 
 
 
+**CAPTURE YOUR OWN IDEAS**
+
+Do you ever forget ideas? Maybe you forget to write down an insight from a buzzing conversation with a friend, and two months later, when somebody asks you about what you discussed, you don’t remember zilch.  
+
+The same thing used to happen to me while traveling. I’d have tons of epiphanies while walking through a new city, only to forget them once I returned home. These impressions and emotions were unique to me. No Internet search could have yielded them. Now, they’re lost to the entropy of time. The clarity of memory decays quickly, so we shouldn’t just save other people’s ideas. We should save our own ideas too. Until we have a central place to capture our best thinking, the joy of epiphany will turn into the anxiety of forgetfulness. 
+
+Many of your unique and provocative ideas will come when you’re away from the computer —  doing chores, driving around, or walking through your neighborhood. Ideas are fickle. That’s why so many of history’s greatest writers have walked around with a notepad. When I read about the writing processes of historians, they repeatedly talk about how they capture their impressions immediately after an interview ends, while their memories are still sharp. They know that ideas that seem obvious in the moment will be forgotten by the time they’re ready to write about them. Following their lead, whenever I have an important idea, I assume I won’t remember it and write it down as soon as possible. 
+
+Note-taking is the closest thing we have to time travel. It’s rebellion against the entropy of memory. Kendrick Lamar insists that much of the “writing” for his lyrics happens in the note-taking process. In one interview, he said: “I have to write them down and then five or three months later, I have to find that same emotion that I felt when I was inspired by it, so I have to dig deep to see what triggered the idea… It comes back because I have key little words that make me realize the exact emotion which drew the inspiration.” 
+
+Your ability to transcribe an event is better than your ability to remember it. Writing down your observations makes you more observant, and once you commit to capturing them, your brain generates more of them. It’s like photography. Putting a camera in your hands turns every moment into a photo opportunity, which makes you more aware of your surroundings. 
+
+**NOTICE WHERE YOU ALREADY WRITE**
+
+I have a friend who writes long and incredibly well thought-out messages in group chats, but says she can’t find the time to write. Her diagnosis is wrong though. The problem isn’t that she lacks time. It’s that she doesn’t realize how much she’s _already writing._ Context determines her capacity for creativity. She has no trouble writing something substantial to friends, but freaks herself out whenever it’s time to write for an audience of strangers on the Internet. She’s a keyboard warrior in group chats, and the more she can realize how brilliant her ideas already are, the easier it will be for her to share ideas in public. 
+
+Likewise, I often find that I’ve written parts of my piece without realizing it, either in emails to friends or Slack messages to colleagues. Sometimes, I’ll even search my tweet history. I’ve made a habit out of saving anything substantial I write to a central note-taking system so I can easily retrieve it in the future. 
+
+If you’re stuck on writing, look back at what you’ve already written for inspiration– emails, texts, tweets, group chats, and Slack Messages. Ask yourself: “Where have I been writing all along?” 
+
+Chances are, you’re already generating ideas. You just don’t realize it yet.
 
 
+---
 
+### 3. BUILD A NOTE-TAKING SYSTEM
+
+Where are your notes from college? If you’re like me, you basically threw all your binders into a massive bonfire after the semester ended. Now, you have no way to find the best ideas you came across in school. Even if you magically found them, your notes would be scattered all over the places in random binders and notebooks. 
+
+The brain is great at creating connections, but terrible at remembering specific details (which is what computers are uniquely good at). Note-taking works best when the ideas are saved in a central location that contains the best reading and [thinking](https://perell.com/essay/how-philosophers-think/) you’ve ever done. The easier it is to search those notes, the faster you’ll be able to find them. 
+
+You don’t need the perfect note-taking system though. It can be chaotic and disorganized, and as messy as your high school bedroom. Though note-taking has been transformative for many writers, it’s telling that none of the best writers I know have a perfect note-taking system. They make something that works (even if it’s duct-taped together), and get on with what’s important: actually writing. 
+
+James Clear, who wrote the wildly popular _Atomic Habits,_ keeps his notes in a massive, [multi-hundred page Google Doc](https://every.to/superorganizers/how-james-clear-is-writing-his-next-book). Even Eminem, who sees note-taking as a way of “stacking ammunition” for his lyrics, packs words and phrases into a box with all kinds of folded and crumpled up paper.
+
+There are tons of note-taking apps: Notion, Obsidian, Roam Research, Evernote. I don’t care which one you use.2 No matter which option you choose, remember that **the point of taking notes is to write, not to have the perfect note-taking system.** 
+
+I swear. There are people who put as much effort into their note-taking system as NASA engineers put into the rockets that got us to the moon. They spend so much time building the perfect system that they forget to actually write. Don’t do that. Note-taking is, literally, not rocket science. 
+
+If you’re just starting out, it might help to think of your note-taking system in two halves. First you **collect the dots** by capturing ideas, then, you **connect them** by writing.
+
+![image.png](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20221216122409.png)
+
+**COLLECT THE DOTS**
+
+Do you ever come across an exceptional tweet and feel like you need to save it? How about a fascinating paragraph that you’ll want to reference in the future? Both are worth capturing in a central location that you can easily flip through later.
+
+Study the writing practices of history’s top writers and you may be surprised by how many kept a [commonplace book](https://ryanholiday.net/how-and-why-to-keep-a-commonplace-book/). A commonplace book is a central place where you can save ideas, quotes, epiphanies, photos, drawings, and whatever else you want to remember. Marcus Aurelius, the former emperor of Rome, used his commonplace book to write _Meditations;_ Montaigne, who basically invented the essay format, kept one; so did Napoleon, HL Mencken, and Thomas Jefferson. 
+
+Since most of your ideas will arise when you’re away from the computer, capturing ideas should be frictionless. You should be able to write an idea down within 10 seconds of having it. If writing a note takes too long, you won’t write the good ones down, and eventually, you’ll forget your best ones. 
+
+You should be able to instantly capture ideas while reading too. There are several ways to do this, but Readwise provides the most elegant solution. Everytime you highlight in Kindle or on Instapaper, and everytime you bookmark a tweet, it shoots that information into a central repository where it’ll live until the messiah returns or the heat death of the universe. 
+
+If the search function on your note-taking app is powerful, you don’t need to spend much time organizing ideas. You can throw a bunch of quotes and hunches and statistics and graphs and photos and rants into a single location, knowing that you’ll be able to find them later. Over time, you’ll develop a personal Google search engine. But unlike the actual Google, you’ll have pre-vetted everything inside of it and you’ll serendipitously stumble upon ideas you forgot you’d ever seen.   
+So long as (1) you can capture ideas quickly, and (2) all those ideas go into the same place, you’re setting yourself up to Write from Abundance. It doesn’t really matter what note-taking app you use.
 
 ---
 

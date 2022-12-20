@@ -54,7 +54,7 @@ Tracing back how Neologisms are born helps us understand why anyone needed this 
 
 ### The Early Gardens of Hypertext
 
-`超文本的早期花园`
+`早期的超文本花园`
 
 Mark Bernstein's 1998 essay Hypertext Gardens appears to be the first recorded mention of the term. Mark was part of the early hypertext crowd – the developers figuring out how to arrange and present this new medium.
 
@@ -258,7 +258,7 @@ People rallying around the [Learn in Public](https://www.swyx.io/learn-in-publi
 
 ## Developer-led Gardening
 
-开发人员主导的花园
+`开发人员主导的花园`
 
 Many of these early adopters were people who understood how to build websites – either professional developers or enthusiastic hobbyists. Any kind of novel experimentation with the web requires knowing a non-trivial amount of HTML, CSS, and JS. Not to mention all the surrounding infrastructure required actually to get a site live. Developers took to the idea because they already had the technical ability to jump in play around with what garden-esque websites might look like.
 
@@ -266,23 +266,23 @@ Many of these early adopters were people who understood how to build websites �
 
 The current state of web development helped here too. While it feels like we've been in a slow descent into a horrifyingly complex and bloated web development process, a number of recent tools have made it easier to get a fully customised website up and running. Services like [Netlify](https://www.netlify.com/) and [Vercel](https://vercel.com/) have taken the pain out of deployment. Static site generators like [Jekyll](https://jekyllrb.com/), [Gatsby](https://www.gatsbyjs.com/docs/), [11ty](https://www.11ty.dev/) and  [Next](https://nextjs.org/) make it easier to build sophisticated websites that auto-generate pages, and take care of grunt work like optimising load time, images, and SEO. These services are trying to find a happy middle ground between tediously hand-coding solutions, and being trapped in the restrictions of Wordpress or Squarespace.
 
-Web 开发的当前状态在这里也有帮助。虽然感觉我们一直在缓慢下降到一个可怕的复杂和臃肿的 Web 开发过程中，但最近的一些工具使完全定制的网站更容易启动和运行。 Netlify 和 Vercel 等服务已经消除了部署的痛苦。 Jekyll、Gatsby、11ty 和 Next 等静态站点生成器可以更轻松地构建自动生成页面的复杂网站，并处理诸如优化加载时间、图像和 SEO 等繁重的工作。很多人会不同意这种由 JavaScript 填充的垃圾的爆炸式增长是网络的净收益。我们都为无法通过 FTP 上传纯 HTML 和 CSS 文件而感到遗憾。但是那些日子已经一去不复返了，我们现在唯一能做的就是慢慢解开我们的 JavaScript 意大利面条并将其打包成更易于访问的构建工具。这些服务试图在繁琐的手工编码解决方案和受困于 Wordpress 或 Squarespace 的限制之间找到一个快乐的中间地带。
+`Web 开发的当前状态在这里也有帮助。虽然感觉我们一直在缓慢下降到一个可怕的复杂和臃肿的 Web 开发过程中，但最近的一些工具使完全定制的网站更容易启动和运行。 Netlify 和 Vercel 等服务已经消除了部署的痛苦。 Jekyll、Gatsby、11ty 和 Next 等静态站点生成器可以更轻松地构建自动生成页面的复杂网站，并处理诸如优化加载时间、图像和 SEO 等繁重的工作。很多人会不同意这种由 JavaScript 填充的垃圾的爆炸式增长是网络的净收益。我们都为无法通过 FTP 上传纯 HTML 和 CSS 文件而感到遗憾。但是那些日子已经一去不复返了，我们现在唯一能做的就是慢慢解开我们的 JavaScript 意大利面条并将其打包成更易于访问的构建工具。这些服务试图在繁琐的手工编码解决方案和受困于 Wordpress 或 Squarespace 的限制之间找到一个快乐的中间地带。`
 
 While developers were the first on the scene, plenty of writers, researchers, and note-taking enthusiasts have been drawn to the idea of digital gardening. To help folks without programming skills join in, there's been a surge in templates and platforms that allow people to build their own digital gardens without touching a ton of code. I've written an entire guide to [Digital Gardening for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening) if you fall into that category.
 
-虽然开发人员是第一个出现在现场的，但许多作家、研究人员和笔记爱好者已经被数字园艺的想法所吸引。为了帮助没有编程技能的人加入，允许人们使用的模板和平台激增无需接触大量代码即可构建自己的数字花园。如果您属于该类别，我已经为非技术人员编写了完整的数字园艺指南。
+`虽然开发人员是第一个出现在现场的，但许多作家、研究人员和笔记爱好者已经被数字园艺的想法所吸引。为了帮助没有编程技能的人加入，允许人们使用的模板和平台激增无需接触大量代码即可构建自己的数字花园。如果您属于该类别，我已经为非技术人员编写了完整的数字园艺指南。`
 
 Tools like [Obsidian](https://obsidian.md/), [TiddlyWiki](https://tiddlywiki.com/), and [Notion](https://www.notion.so/)are all great options. Many of them offer fancy features like nested folders, [Bi-Directional Links](https://maggieappleton.com/bidirectionals), footnotes, and visual graphs.
 
-Obsidian、TiddlyWiki 和 Notion 等工具都是不错的选择。它们中的许多都提供了精美的功能，例如嵌套文件夹、双向链接、脚注和可视图表。
+`Obsidian、TiddlyWiki 和 Notion 等工具都是不错的选择。它们中的许多都提供了精美的功能，例如嵌套文件夹、双向链接、脚注和可视图表。`
 
 However, many of these no-code tools still feel like cookie-cutter solutions. Rather than allowing people to design the [information architecture](https://en.wikipedia.org/wiki/Information_architecture)and spatial layouts of their gardens, they inevitably force people into pre-made arrangements. This doesn't meant they don't "count,” as "real” gardens, but simply that they limit their gardeners to some extent. You can't design different types of links, novel features, experimental layouts, or custom architecture. They're pre-fab houses instead of raw building materials.
 
-然而，这些无代码工具中的许多仍然感觉像是千篇一律的解决方案。他们不允许人们设计花园的信息架构和空间布局，而是不可避免地迫使人们进行预先安排。这并不意味着他们不“算数”，作为“真正的”花园，只是他们在一定程度上限制了他们的园丁。您无法设计不同类型的链接、新颖的功能、实验性布局或自定义架构。它们是预制房屋，而不是原材料。
+`然而，这些无代码工具中的许多仍然感觉像是千篇一律的解决方案。他们不允许人们设计花园的信息架构和空间布局，而是不可避免地迫使人们进行预先安排。这并不意味着他们不“算数”，作为“真正的”花园，只是他们在一定程度上限制了他们的园丁。您无法设计不同类型的链接、新颖的功能、实验性布局或自定义架构。它们是预制房屋，而不是原材料。`
 
 ## The Six Patterns of Gardening
 
-花园的六种模式
+`花园的六种模式`
 
 In all the recent gardening flurry, we've run into the inevitable confusion around how to define the term.
 
@@ -524,52 +524,52 @@ Gardens offer us the ability to present ourselves in forms that aren't cookie cu
 
 Gardens are not just a collection of interlinked words. While linear writing is an incredible medium that has served us well for a little over 5000 years, it is daft to pretend working in a single medium is a sufficient way to explore complex ideas.
 
-花园不仅仅是相互关联的单词的集合。虽然线性写作是一种令人难以置信的媒介，在5000多年的时间里为我们提供了很好的服务，但是假装在单一媒介中工作是探索复杂思想的充分途径是愚蠢的。
+`花园不仅仅是相互关联的单词的集合。虽然线性写作是一种令人难以置信的媒介，在5000多年的时间里为我们提供了很好的服务，但是假装在单一媒介中工作是探索复杂思想的充分途径是愚蠢的。`
 
 It is also absurd to ignore the fact we're living in an audio-visual cornucopia that the web makes possible. Podcasts, videos, diagrams, illustrations, interactive web animations, academic papers, tweets, rough sketches, and code snippets should all live and grow in the garden.
 
-忽视我们生活在网络所带来的视听盛宴的事实也是荒谬的。播客、视频、图表、插图、交互式网络动画、学术论文、推文、草图和代码片段都应该在花园里生活和成长。
+`忽视我们生活在网络所带来的视听盛宴的事实也是荒谬的。播客、视频、图表、插图、交互式网络动画、学术论文、推文、草图和代码片段都应该在花园里生活和成长。`
 
 ![](https://kidpic.oss-cn-beijing.aliyuncs.com/img/20221104160940.png)
 Historically, monocropping has been the quickest route to starvation, pests, and famine. Don't be a lumper potato farmer while everyone else is sustainably intercropping.
 
-从历史上看，单一作物种植是通往饥饿、虫害和饥荒的最快途径。当其他人都在可持续地进行间作时，不要做一个愚蠢的马铃薯农民。
+`从历史上看，单一作物种植是通往饥饿、虫害和饥荒的最快途径。当其他人都在可持续地进行间作时，不要做一个愚蠢的马铃薯农民。`
 
 ### 6. Independent Ownership
 
-独立拥有
+`独立拥有`
 
 Gardening is about claiming a small patch of the web for yourself, one you fully own and control.
 
-园艺就是为自己争取一小块你完全拥有控制权的网络。
+`园艺就是为自己争取一小块你完全拥有控制权的网络。`
 
 This patch should not live on the servers of Facebook, LinkedIn, Twitter, Instagram (aka. also Facebook), or Medium. None of these platforms are designed to help you slowly build and weave personal knowledge. Most of them actively fight against it.
 
-这块地不应存在于 Facebook、LinkedIn、Twitter、Instagram（又名 Facebook）或 Medium 的服务器上。这些平台都不是为了帮助你慢慢建立和编织个人知识。他们中的大多数人积极反对它。
+`这块地不应存在于 Facebook、LinkedIn、Twitter、Instagram（又名 Facebook）或 Medium 的服务器上。这些平台都不是为了帮助你慢慢建立和编织个人知识。他们中的大多数人积极反对它。`
 
 If any of those services go under, your writing and creations sink with it (crazier things have happened in the span of humanity). None of them have an easy export button. And they certainly won't hand you your data in a transferable format.
 
-如果这些服务中的任何一个出现故障，您的写作和创作就会随之沉没（在人类的跨度中发生了更疯狂的事情）。它们都没有简单的导出按钮。他们当然不会以可转移的格式将您的数据交给您。
+`如果这些服务中的任何一个出现故障，您的写作和创作就会随之沉没（在人类的跨度中发生了更疯狂的事情）。它们都没有简单的导出按钮。他们当然不会以可转移的格式将您的数据交给您。`
 
 ![](https://kidpic.oss-cn-beijing.aliyuncs.com/img/20221104161630.png)
 
 Independently owning your garden helps you plan for long-term change. You should think about how you want your space to grow over the next few decades, not just the next few months.
 
-独立拥有您的花园可以帮助您规划长期变化。您应该考虑您希望您的空间在未来几十年如何发展，而不仅仅是未来几个月。
+`独立拥有您的花园可以帮助您规划长期变化。您应该考虑您希望您的空间在未来几十年如何发展，而不仅仅是未来几个月。`
 
 If you give it a bit of forethought, you can build your garden in a way that makes it easy to transfer and adapt. Platforms and technologies will inevitably change. Using old-school, reliable, and widely used web native formats like HTML/CSS is a safe bet. Backing up your notes as flat markdown files won't hurt either.
 
-如果你事先考虑一下的话，你可以以一种易于转移和适应的方式建造你的花园。平台和技术将不可避免地发生变化。使用老式、可靠且广泛使用的 Web 原生格式（如 HTML/CSS）是一个安全的选择。将您的笔记备份为 MarkDown 文件也不会受到伤害。
+`如果你事先考虑一下的话，你可以以一种易于转移和适应的方式建造你的花园。平台和技术将不可避免地发生变化。使用老式、可靠且广泛使用的 Web 原生格式（如 HTML/CSS）是一个安全的选择。将您的笔记备份为 MarkDown 文件也不会受到伤害。`
 
 Keeping your garden on the open web also sets you up to take part in the future of gardening. At the moment our gardens are rather solo affairs. We haven't figure out how to make them multi-player. _But_ there's an enthusiastic community of developers and designers trying to fix that. It's hard to say what kind of libraries, frameworks, and design patterns might emerge out of that effort, but it certainly isn't going to happen behind a Medium paywall.
 
-将您的花园保持在开放的网络上也可以让您参与园艺的未来。目前，我们的花园相当独立。我们还没有弄清楚如何让它们成为多人游戏。但是有一个热情的开发人员和设计师社区试图解决这个问题。很难说这种努力会产生什么样的库、框架和设计模式，但在中等付费墙后面肯定不会发生。
+`将您的花园保持在开放的网络上也可以让您参与园艺的未来。目前，我们的花园相当独立。我们还没有弄清楚如何让它们成为多人游戏。但是有一个热情的开发人员和设计师社区试图解决这个问题。很难说这种努力会产生什么样的库、框架和设计模式，但在中等付费墙后面肯定不会发生。`
 
 ![](https://kidpic.oss-cn-beijing.aliyuncs.com/img/20221104161908.png)
 
 This is all my take on gardening, but knowledge and neologisms always live within communities. No one owns _The Official Definition_ of digital gardening. Numerous people have contributed to the growing conversation and you should read their thoughts as well.
 
-这就是我对花园的全部看法，但知识和新词总是存在于社区中。没有人拥有数字花园的官方定义。许多人为不断增长的对话做出了贡献，您也应该阅读他们的想法。
+`这就是我对花园的全部看法，但知识和新词总是存在于社区中。没有人拥有数字花园的官方定义。许多人为不断增长的对话做出了贡献，您也应该阅读他们的想法。`
 
 ## Sources
 
